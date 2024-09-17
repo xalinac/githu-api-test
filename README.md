@@ -9,7 +9,7 @@
     source venv/bin/activate
     ```
     
-    # Для Windows
+    Для Windows
     ```
    `venv\Scripts\activate`
     ```
