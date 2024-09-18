@@ -4,12 +4,14 @@
 
     ```
     python -m venv venv
+    ```
+    ```
     source venv/bin/activate
     ```
     
     Для Windows
     ```
-   `venv\Scripts\activate`
+   venv\Scripts\activate
     ```
 
 2. Установите зависимости:
