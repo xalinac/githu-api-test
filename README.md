@@ -32,7 +32,7 @@
 
 4. Запуск теста
 
-    Выполните скрипт `test_api.py`:
+    Выполните скрипт `test-api.py`:
 
     ```
     python test_api.py
